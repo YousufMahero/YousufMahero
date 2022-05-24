@@ -2,7 +2,7 @@
 <div align="center"><img src="./cover_photo.JPG" width="700px" /></div>
 
 
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Yusuf Mahir Nartok!</h1>
+<h1 align="center">Yusuf Mahir Nartok  &mdash; @yousufmahero</h1>
 <br>
 
 
@@ -18,25 +18,16 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white&style=plastic)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=plastic)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&style=plastic)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&style=plastic) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&style=plastic)
 
 <h3>Github Stats</h3>
-<br /><br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yousufmahero&theme=solarized-light&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yousufmahero&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=yousufmahero&theme=solarized-light&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yousufmahero)
 
 ![](https://komarev.com/ghpvc/?username=yousufmahero&color=lightgrey)
 
-<!--
-**YousufMahero/YousufMahero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📮 Get In Touch!
+[Yusuf Mahir Nartok](mailto:yusufmahirnartok@gmail.com?subject=[GitHub]%20Hi%Mahir!)
 
-Here are some ideas to get you started:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[linkedin]: https://www.linkedin.com/in/yusufmahirnartok/
