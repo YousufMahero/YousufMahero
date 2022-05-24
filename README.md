@@ -24,10 +24,13 @@
 ![](https://komarev.com/ghpvc/?username=yousufmahero&color=lightgrey)
 
 ### 📮 Get In Touch!
-[Yusuf Mahir Nartok](mailto:yusufmahirnartok@gmail.com?subject=[GitHub]%20Hi%Mahir!)
+[Yusuf Mahir Nartok](mailto:yusufmahirnartok@gmail.com?subject=[GitHub]%20Hi%20Mahir!)
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/ErickSimoes/email-icon/blob/master/tw.png" />][twitter]
+
 
 ---
 
 [linkedin]: https://www.linkedin.com/in/yusufmahirnartok/
+[twitter]: https://twitter.com/YsfMahirNartok/
