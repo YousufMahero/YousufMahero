@@ -1,11 +1,10 @@
-### Sup Mate 👋
 <div align="center"><img src="./cover_photo.JPG" width="700px" /></div>
 
 
 <h1 align="center">Yusuf Mahir Nartok  &mdash; @yousufmahero</h1>
 <br>
 
-<p align="center">Hi! I am Mahir &mdash; an <b>Analytical Consultant</b> at Merkle. Previously, worked as an IT Consultant and Database Developer at Enerjisa E.On|Sabanci. Having 4 years of dynamic experience in IT sector in Agile environment. a <b>backend developer</b> and a <b>machine learning enthusiast</b>. Skilled in Python and realted frameworks, Databases, APIs, and various Cloud Services such as AWS, Azure.
+<p align="center">Hi! I am Mahir &mdash; an <b>Analytical Consultant</b> at Merkle. Previously, worked as an IT Consultant and Database Developer at Enerjisa E.On|Sabanci. Having 4 years of dynamic experience in IT sector in Agile environment. A <b>backend developer</b> and a <b>machine learning enthusiast</b>. Skilled in Python and realted frameworks, Databases, APIs, and various Cloud Services such as AWS, Azure.
   
 
 
